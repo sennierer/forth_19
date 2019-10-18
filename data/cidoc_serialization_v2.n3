@@ -1,0 +1,50 @@
+@prefix apis: <https://apis.acdh.oeaw.ac.at> .
+@prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://apis.acdh-dev.oeaw.ac.at/appellation/birth/33836> a cidoc:E67_Birth ;
+    rdfs:label "Geburt von Rudolf Sinwel"@de ;
+    cidoc:P4_has_time-span [ a cidoc:E52_Time-Span ;
+            cidoc:P82a_begin_of_the_begin "1865-04-05"^^xsd:date ;
+            cidoc:P82b_end_of_the_end "1865-04-05"^^xsd:date ] ;
+    cidoc:P7_took_place_at <https://apis.acdh-dev.oeaw.ac.at/apis/api2/entity/21548> ;
+    cidoc:P98_brought_into_life <https://apis.acdh-dev.oeaw.ac.at/apis/api2/entity/33836/> .
+
+<https://apis.acdh-dev.oeaw.ac.at/appellation/death/33836> a cidoc:E69_Death ;
+    rdfs:label "Tod von Rudolf Sinwel"@de ;
+    cidoc:P100_was_death_of <https://apis.acdh-dev.oeaw.ac.at/apis/api2/entity/33836/> ;
+    cidoc:P4_has_time-span [ a cidoc:E52_Time-Span ;
+            cidoc:P82a_begin_of_the_begin "1947-10-26"^^xsd:date ;
+            cidoc:P82b_end_of_the_end "1947-10-26"^^xsd:date ] ;
+    cidoc:P7_took_place_at <https://apis.acdh-dev.oeaw.ac.at/apis/api2/entity/6700> .
+
+<https://apis.acdh-dev.oeaw.ac.at/apis/api2/entity/21548> a cidoc:E53_Place ;
+    rdfs:label "Zell am See"@en ;
+    cidoc:P168_place_is_defined_by "Point( 12.79444 47.32556 )"^^<geo:wktLiteral> ;
+    cidoc:P1_is_identified_by <https://apis.acdh-dev.oeaw.ac.at/appellation/place/21548> ;
+    = <http://sws.geonames.org/2760634/> .
+
+<https://apis.acdh-dev.oeaw.ac.at/apis/api2/entity/6700> a cidoc:E53_Place ;
+    rdfs:label "Innsbruck"@en ;
+    cidoc:P168_place_is_defined_by "Point( 11.39454 47.26266 )"^^<geo:wktLiteral> ;
+    cidoc:P1_is_identified_by <https://apis.acdh-dev.oeaw.ac.at/appellation/place/6700> ;
+    = <http://d-nb.info/gnd/4027096-8>,
+        <http://sws.geonames.org/2775220/> .
+
+<https://apis.acdh-dev.oeaw.ac.at/appellation/place/21548> a cidoc:E41_Appellation ;
+    rdfs:label "Zell am See"@en .
+
+<https://apis.acdh-dev.oeaw.ac.at/appellation/place/6700> a cidoc:E41_Appellation ;
+    rdfs:label "Innsbruck"@en .
+
+<https://apis.acdh-dev.oeaw.ac.at/apis/api2/entity/33836/> a cidoc:E21_Person ;
+    rdfs:label "Rudolf Sinwel"@en ;
+    cidoc:P1_is_identified_by [ a cidoc:E41_Appellation ;
+            rdfs:label "Rudolf Sinwel"@en ] ;
+    = <http://d-nb.info/gnd/140744088> .
+

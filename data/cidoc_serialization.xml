@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.w3.org/2003/01/geo/wgs84_pos#"
+   xmlns:ns2="http://www.cidoc-crm.org/cidoc-crm/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:nodeID="N747096b316e247d5b03239e876047d1a">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E82"/>
+    <rdfs:label xml:lang="de">Rudolf Sinwel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://apis.acdh.oeaw.ac.at/apis/api2/entity/33837">
+    <ns2:P87 rdf:nodeID="N0c577305c3784615a1081a5dd732a743"/>
+    <rdfs:label xml:lang="de">Zell am See</rdfs:label>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E53"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9c0e2b1722604f829a7f16679cfad2cc">
+    <ns2:P7 rdf:resource="https://apis.acdh.oeaw.ac.at/apis/api2/entity/33837"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E67"/>
+    <ns2:P98 rdf:resource="http://127.0.0.1:8000/apis/api2/entity/33836/"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb68fb283f66e41b495d5ef9be4b2fecc">
+    <ns2:P114 rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-04-05</ns2:P114>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E50"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://127.0.0.1:8000/apis/api2/entity/33836/">
+    <ns2:P131 rdf:nodeID="N747096b316e247d5b03239e876047d1a"/>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P21"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0c577305c3784615a1081a5dd732a743">
+    <ns1:long rdf:datatype="http://www.w3.org/2001/XMLSchema#double">12.79444</ns1:long>
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E47"/>
+    <ns1:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#double">47.32556</ns1:lat>
+  </rdf:Description>
+</rdf:RDF>

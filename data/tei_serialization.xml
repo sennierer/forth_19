@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Person: Sinwel</title>
+                <title type="sub">APIS</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="person__33836">
+                    <persName>
+                        <surname>Sinwel</surname>
+                        <forename>Rudolf</forename>
+                    </persName>
+                    <persName subtype="Name laut ÖBL XML" type="alt" xml:lang="deu">Sinwel, Rudolf; Ps. Rolf Kurz</persName>
+                    <persName subtype="Pseudonym" type="alt" xml:lang="deu">Rolf Kurz</persName>
+                    <birth when="1865-04-05">5.4.1865</birth>
+                    <death when="1947-10-26">26.10.1947</death>
+                    <occupation code="#128" scheme="#apis_vocabularies/professiontype/">Literatur, Buch- und Zeitungswesen</occupation>
+                    <occupation code="#149" scheme="#apis_vocabularies/professiontype/">Geisteswissenschaft</occupation>
+                    <occupation code="#188" scheme="#apis_vocabularies/professiontype/">Unterrichtswesen</occupation>
+                    <occupation code="#1563" scheme="#apis_vocabularies/professiontype/">Heimatforscher, Schriftsteller und Lehrer</occupation>
+                    <note type="institutions">
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/94158" type="war-in-ausbildung-war-student"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/96488" type="war-mitarbeiter-war-lehrer"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/94188" type="war-grunder-von"/>
+                    </note>
+                    <note type="persons">
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/48138" type="rezipierte"/>
+                    </note>
+                    <note type="places">
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/21548" type="place-of-birth"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/6700" type="place-of-death"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/6700" type="ausgebildet-in"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/10015" type="wirkte-in"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/154" type="wirkte-in"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/21655" type="wirkte-in"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/806" type="wirkte-in"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/96492" type="wirkte-in"/>
+                        <ptr target="https://apis.acdh.oeaw.ac.at/apis/api2/327" type="wirkte-in"/>
+                    </note>
+                    <idno subtype="GND" type="URL">http://d-nb.info/gnd/140744088</idno>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

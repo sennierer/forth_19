@@ -1,0 +1,1612 @@
+{
+  "id": 33836,
+  "url": "http://127.0.0.1:8000/apis/api2/entity/33836/",
+  "name": "Sinwel",
+  "start_date": "1865-04-05",
+  "end_date": "1947-10-26",
+  "start_date_written": "5.4.1865",
+  "end_date_written": "26.10.1947",
+  "status": "",
+  "first_name": "Rudolf",
+  "gender": "male",
+  "uris": [
+    {
+      "id": 24130,
+      "uri": "http://d-nb.info/gnd/140744088"
+    }
+  ],
+  "labels": [
+    {
+      "id": 10075,
+      "label": "Sinwel, Rudolf; Ps. Rolf Kurz",
+      "isoCode_639_3": "deu",
+      "label_type": {
+        "id": 598,
+        "name": "Name laut ÖBL XML"
+      }
+    },
+    {
+      "id": 10076,
+      "label": "Rolf Kurz",
+      "isoCode_639_3": "deu",
+      "label_type": {
+        "id": 430,
+        "name": "Pseudonym"
+      }
+    }
+  ],
+  "revisions": [],
+  "collection": [
+    {
+      "id": 7,
+      "name": "ÖBL complete import test 30.8.16"
+    },
+    {
+      "id": 17,
+      "name": "Mittelalter 7.9.2016"
+    },
+    {
+      "id": 52,
+      "name": "Lyon export test data"
+    },
+    {
+      "id": 77,
+      "name": "Rumpolt GeWi Stichprobe"
+    }
+  ],
+  "profession": [
+    {
+      "id": 128,
+      "name": "Literatur, Buch- und Zeitungswesen",
+      "label": "Literatur, Buch- und Zeitungswesen"
+    },
+    {
+      "id": 149,
+      "name": "Geisteswissenschaft",
+      "label": "Geisteswissenschaft"
+    },
+    {
+      "id": 188,
+      "name": "Unterrichtswesen",
+      "label": "Unterrichtswesen"
+    },
+    {
+      "id": 1563,
+      "name": "Heimatforscher, Schriftsteller und Lehrer",
+      "label": "Geisteswissenschaft >> Heimatforscher, Schriftsteller und Lehrer"
+    }
+  ],
+  "entity_type": "Person",
+  "relations": {
+    "events": [],
+    "institutions": [
+      {
+        "id": 96481,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personinstitutionrelation/5642/",
+          "label": "war in Ausbildung >> war Student"
+        },
+        "annotation": [],
+        "revisions": [
+          {
+            "id": 17971,
+            "date_created": "2016-09-27T11:19:42Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 94158,
+          "url": "undefined",
+          "name": "Universität Innsbruck",
+          "start_date": "1669-01-01",
+          "end_date": null,
+          "uris": [
+            {
+              "id": 63915,
+              "uri": "http://d-nb.info/gnd/36165-3"
+            }
+          ],
+          "labels": [
+            {
+              "id": 32218,
+              "label": "Università di Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32219,
+              "label": "Universitas Leopoldino-Franciscea Oenipontana",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32220,
+              "label": "LFU",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32221,
+              "label": "Universität Innsbruck. Senat",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32222,
+              "label": "Alpen-Universität",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32223,
+              "label": "Université Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32224,
+              "label": "Università Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32225,
+              "label": "K.K. Leopold-Franzens-Universität",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32226,
+              "label": "Alpenuniversität",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32227,
+              "label": "Kaiserlich-Königliche Universität Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32228,
+              "label": "Akademischer Senat (Innsbruck)",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32229,
+              "label": "Deutsche Alpen-Universität",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32230,
+              "label": "University Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32231,
+              "label": "K.K. Universität Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32232,
+              "label": "Alma Mater Oenipontana",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32233,
+              "label": "Université d'Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32234,
+              "label": "Kaiserliche Königliche Universität Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32235,
+              "label": "Leopold-Franzens-Universität Innsbruck. Akademischer Senat",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32236,
+              "label": "Universität Innsbruck. Akademischer Senat",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32237,
+              "label": "University of Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32238,
+              "label": "Leopold-Franzens-Universität",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32239,
+              "label": "Innsbruck University",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32240,
+              "label": "Leopold-Franzens-Universität Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32241,
+              "label": "Deutsche Alpenuniversität",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32242,
+              "label": "Deutsche Alpen-Universität (Innsbruck)",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32243,
+              "label": "Akademischer Senat (Universität Innsbruck)",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            },
+            {
+              "id": 32244,
+              "label": "Universitas Oenipontana",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 433,
+                "name": "alternative name"
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "id": 209295,
+              "date_created": "2018-04-26T09:44:42Z",
+              "user_created": "ABernad"
+            },
+            {
+              "id": 9365,
+              "date_created": "2016-09-12T10:15:02Z",
+              "user_created": "MKaiser"
+            }
+          ],
+          "start_date_written": "1669",
+          "end_date_written": null,
+          "status": "",
+          "collection": [
+            {
+              "id": 17,
+              "name": "Mittelalter 7.9.2016"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Institution"
+        }
+      },
+      {
+        "id": 96491,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personinstitutionrelation/5677/",
+          "label": "war Mitarbeiter >> war Lehrer"
+        },
+        "annotation": [
+          {
+            "id": 1313,
+            "user": "sennierer",
+            "annotation": "Handelsakad. in Brünn",
+            "text": "g (Ústí nad Labem) und 1895–1916 als Prof.
+            an der <annotation>Handelsakad. in Brünn</annotation> (Brno); 1917
+            krankheitshalber i. R. Trotz seiner ",
+            "string_offset": "470-491",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 17986,
+            "date_created": "2016-09-27T11:25:26Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 96488,
+          "url": "undefined",
+          "name": "Kaiserlich-Königliche Kaiser-Franz-Josefs-Handelsakademie (Brünn)",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 65192,
+              "uri": "http://d-nb.info/gnd/401767-5"
+            }
+          ],
+          "labels": [],
+          "revisions": [
+            {
+              "id": 18221,
+              "date_created": "2016-09-27T13:28:31Z",
+              "user_created": "MKaiser"
+            },
+            {
+              "id": 17995,
+              "date_created": "2016-09-27T11:25:26Z",
+              "user_created": "MKaiser"
+            }
+          ],
+          "start_date_written": "",
+          "end_date_written": "",
+          "status": "",
+          "collection": [
+            {
+              "id": 17,
+              "name": "Mittelalter 7.9.2016"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Institution"
+        }
+      },
+      {
+        "id": 96495,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personinstitutionrelation/5657/",
+          "label": "war Gründer von"
+        },
+        "annotation": [
+          {
+            "id": 1315,
+            "user": "sennierer",
+            "annotation": "Tiroler Heimatblätter",
+            "text": " Auf seine Initiative ging 1920 die Gründung der „<annotation>Tiroler Heimatblätter</annotation>“ (gem. mit Eduard Lippott) zurück, deren Schriftl",
+            "string_offset": "859-880",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 18015,
+            "date_created": "2016-09-27T11:26:46Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 94188,
+          "url": "undefined",
+          "name": "Tiroler Heimatblätter",
+          "start_date": "1924-01-01",
+          "end_date": "1941-01-01",
+          "uris": [
+            {
+              "id": 63925,
+              "uri": "https://apis.eos.arz.oeaw.ac.at/entity/94188"
+            }
+          ],
+          "labels": [],
+          "revisions": [
+            {
+              "id": 9321,
+              "date_created": "2016-09-12T09:30:32Z",
+              "user_created": "MKaiser"
+            }
+          ],
+          "start_date_written": "1924",
+          "end_date_written": "1941",
+          "status": "",
+          "collection": [
+            {
+              "id": 17,
+              "name": "Mittelalter 7.9.2016"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Institution"
+        }
+      }
+    ],
+    "persons": [
+      {
+        "id": 96497,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personpersonrelation/5421/",
+          "label": "rezipierte"
+        },
+        "annotation": [],
+        "revisions": [
+          {
+            "id": 18019,
+            "date_created": "2016-09-27T11:34:42Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 48138,
+          "url": "undefined",
+          "name": "Prem",
+          "start_date": "1853-10-28",
+          "end_date": "1920-04-26",
+          "uris": [
+            {
+              "id": 33780,
+              "uri": "http://d-nb.info/gnd/116282339"
+            }
+          ],
+          "labels": [
+            {
+              "id": 15922,
+              "label": "Prem, Simon (Marian); Ps. Christian Ewald",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 598,
+                "name": "Name laut ÖBL XML"
+              }
+            },
+            {
+              "id": 15923,
+              "label": "Marian",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 597,
+                "name": "alternative Namensform"
+              }
+            },
+            {
+              "id": 15924,
+              "label": "Christian Ewald",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 430,
+                "name": "Pseudonym"
+              }
+            }
+          ],
+          "revisions": [],
+          "start_date_written": "28.10.1853",
+          "end_date_written": "26.4.1920",
+          "status": "",
+          "first_name": "Simon",
+          "gender": "male",
+          "collection": [
+            {
+              "id": 7,
+              "name": "ÖBL complete import test 30.8.16"
+            },
+            {
+              "id": 17,
+              "name": "Mittelalter 7.9.2016"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "profession": [
+            {
+              "id": 149,
+              "name": "Geisteswissenschaft",
+              "label": "Geisteswissenschaft"
+            },
+            {
+              "id": 188,
+              "name": "Unterrichtswesen",
+              "label": "Unterrichtswesen"
+            },
+            {
+              "id": 1428,
+              "name": "Literarhistoriker und Lehrer",
+              "label": "Geisteswissenschaft >> Literarhistoriker und Lehrer"
+            }
+          ],
+          "entity_type": "Person"
+        }
+      }
+    ],
+    "places": [
+      {
+        "id": 33837,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/595/",
+          "label": "place of birth"
+        },
+        "annotation": [],
+        "revisions": [],
+        "target": {
+          "id": 21548,
+          "url": "undefined",
+          "name": "Zell am See",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 15699,
+              "uri": "http://sws.geonames.org/2760634/"
+            }
+          ],
+          "labels": [
+            {
+              "id": 5868,
+              "label": "Zell am See",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 5869,
+              "label": "Zell am See",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 6661,
+              "label": "Zell am See - am Hundstein",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 10074,
+              "label": "Zell (Kufstein)",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 36542,
+              "label": "Zell a. See",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 36716,
+              "label": "Zell a. See",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 36897,
+              "label": "Zell a. See",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 39040,
+              "label": "Zell a. See",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 5832,
+                "name": "legacy name"
+              }
+            },
+            {
+              "id": 39264,
+              "label": "Zell a. See",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 5832,
+                "name": "legacy name"
+              }
+            },
+            {
+              "id": 39265,
+              "label": "Zell a. See",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 5832,
+                "name": "legacy name"
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "id": 121479,
+              "date_created": "2017-08-26T20:57:51Z",
+              "user_created": "JKerschner"
+            },
+            {
+              "id": 121473,
+              "date_created": "2017-08-26T20:57:41Z",
+              "user_created": "JKerschner"
+            },
+            {
+              "id": 118022,
+              "date_created": "2017-08-24T10:44:24Z",
+              "user_created": "JKerschner"
+            },
+            {
+              "id": 102900,
+              "date_created": "2017-08-03T12:20:57Z",
+              "user_created": "sennierer"
+            }
+          ],
+          "start_date_written": null,
+          "end_date_written": null,
+          "status": "distinct",
+          "lat": 47.32556,
+          "lng": 12.79444,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 5,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 36,
+              "name": "Places ÖBL labels not distinct"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 33838,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/596/",
+          "label": "place of death"
+        },
+        "annotation": [],
+        "revisions": [],
+        "target": {
+          "id": 6700,
+          "url": "undefined",
+          "name": "Innsbruck",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 4954,
+              "uri": "http://sws.geonames.org/2775220/"
+            },
+            {
+              "id": 19233,
+              "uri": "http://d-nb.info/gnd/4027096-8"
+            }
+          ],
+          "labels": [
+            {
+              "id": 1926,
+              "label": "Innsbruck",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 1927,
+              "label": "Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "id": 654,
+              "date_created": "2016-05-09T14:14:52Z",
+              "user_created": "oebl"
+            }
+          ],
+          "start_date_written": "",
+          "end_date_written": "",
+          "status": "distinct",
+          "lat": 47.26266,
+          "lng": 11.39454,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 96480,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5399/",
+          "label": "ausgebildet in"
+        },
+        "annotation": [
+          {
+            "id": 1308,
+            "user": "sennierer",
+            "annotation": "Innsbruck",
+            "text": ". d.) bei Zieheltern auf. S. absolv. das Gymn. in <annotation>Innsbruck</annotation> und stud. 1883–87 an der dortigen Univ. Dt. Philo",
+            "string_offset": "145-154",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 17968,
+            "date_created": "2016-09-27T10:26:36Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 6700,
+          "url": "undefined",
+          "name": "Innsbruck",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 4954,
+              "uri": "http://sws.geonames.org/2775220/"
+            },
+            {
+              "id": 19233,
+              "uri": "http://d-nb.info/gnd/4027096-8"
+            }
+          ],
+          "labels": [
+            {
+              "id": 1926,
+              "label": "Innsbruck",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 1927,
+              "label": "Innsbruck",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "id": 654,
+              "date_created": "2016-05-09T14:14:52Z",
+              "user_created": "oebl"
+            }
+          ],
+          "start_date_written": "",
+          "end_date_written": "",
+          "status": "distinct",
+          "lat": 47.26266,
+          "lng": 11.39454,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 96482,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/",
+          "label": "wirkte in"
+        },
+        "annotation": [
+          {
+            "id": 1309,
+            "user": "sennierer",
+            "annotation": "Linz",
+            "text": " Im Zuge seiner schul. Laufbahn wirkte er 1888 in <annotation>Linz</annotation>, 1889 in Salzburg, 1890 in Znaim (Znojmo), 1891–9",
+            "string_offset": "336-340",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 17974,
+            "date_created": "2016-09-27T11:20:04Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 10015,
+          "url": "undefined",
+          "name": "Linz",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 7375,
+              "uri": "http://sws.geonames.org/2772400/"
+            },
+            {
+              "id": 64961,
+              "uri": "http://d-nb.info/gnd/4074255-6"
+            }
+          ],
+          "labels": [
+            {
+              "id": 2789,
+              "label": "Linz",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 2790,
+              "label": "Linz",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 13859,
+              "label": "Linz (?)",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 38574,
+              "label": "Schloß Auhof b. Linz",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 5832,
+                "name": "legacy name"
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "id": 92666,
+              "date_created": "2017-07-20T09:57:08Z",
+              "user_created": "JKerschner"
+            },
+            {
+              "id": 551,
+              "date_created": "2016-05-09T13:05:49Z",
+              "user_created": "oebl"
+            }
+          ],
+          "start_date_written": "",
+          "end_date_written": "",
+          "status": "distinct",
+          "lat": 48.30639,
+          "lng": 14.28611,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 5,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 96483,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/",
+          "label": "wirkte in"
+        },
+        "annotation": [
+          {
+            "id": 1310,
+            "user": "sennierer",
+            "annotation": "Salzburg",
+            "text": "r schul. Laufbahn wirkte er 1888 in Linz, 1889 in <annotation>Salzburg</annotation>, 1890 in Znaim (Znojmo), 1891–94 an der Handelsak",
+            "string_offset": "350-358",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 17976,
+            "date_created": "2016-09-27T11:20:19Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 154,
+          "url": "undefined",
+          "name": "Salzburg",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 127,
+              "uri": "http://sws.geonames.org/2766824/"
+            },
+            {
+              "id": 64632,
+              "uri": "http://d-nb.info/gnd/4076982-3"
+            }
+          ],
+          "labels": [
+            {
+              "id": 56,
+              "label": "Salzburg",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 57,
+              "label": "Salzburg",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 2729,
+              "label": "Salzburg - Leopoldskron-Moos",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            }
+          ],
+          "revisions": [],
+          "start_date_written": null,
+          "end_date_written": null,
+          "status": "distinct",
+          "lat": 47.79941,
+          "lng": 13.04399,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 96484,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/",
+          "label": "wirkte in"
+        },
+        "annotation": [
+          {
+            "id": 1311,
+            "user": "sennierer",
+            "annotation": "Znaim ",
+            "text": "wirkte er 1888 in Linz, 1889 in Salzburg, 1890 in <annotation>Znaim </annotation>(Znojmo), 1891–94 an der Handelsakad. in Aussig (Ú",
+            "string_offset": "368-374",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 17980,
+            "date_created": "2016-09-27T11:20:38Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 21655,
+          "url": "undefined",
+          "name": "Znaim",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 15778,
+              "uri": "http://sws.geonames.org/3061344/"
+            },
+            {
+              "id": 19229,
+              "uri": "http://d-nb.info/gnd/4119250-3"
+            }
+          ],
+          "labels": [
+            {
+              "id": 5899,
+              "label": "Znojmo",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 5900,
+              "label": "Znojmo, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 5901,
+              "label": "Znojmo, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 5902,
+              "label": "Znojmo, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 35565,
+              "label": "Znojmo-Louka, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 37326,
+              "label": "Znojmo-Louka, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            }
+          ],
+          "revisions": [],
+          "start_date_written": null,
+          "end_date_written": null,
+          "status": "distinct",
+          "lat": 48.8555,
+          "lng": 16.0488,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 96485,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/",
+          "label": "wirkte in"
+        },
+        "annotation": [
+          {
+            "id": 1312,
+            "user": "sennierer",
+            "annotation": "Aussig ",
+            "text": "in Znaim (Znojmo), 1891–94 an der Handelsakad. in <annotation>Aussig </annotation>(Ústí nad Labem) und 1895–1916 als Prof. an der Ha",
+            "string_offset": "415-422",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 17983,
+            "date_created": "2016-09-27T11:21:07Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 806,
+          "url": "undefined",
+          "name": "Ústí nad Labem",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 619,
+              "uri": "http://sws.geonames.org/3063548/"
+            },
+            {
+              "id": 72754,
+              "uri": "http://d-nb.info/gnd/4086139-9"
+            }
+          ],
+          "labels": [
+            {
+              "id": 243,
+              "label": "Ústí nad Labem",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 244,
+              "label": "Ústí nad Labem",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 245,
+              "label": "Ústí nad Labem",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 246,
+              "label": "Ústí nad Labem",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 4651,
+              "label": "Ústí nad Labem - Svádov, kr. Ústecký",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 41507,
+              "label": "Úžín, kr. Ústecký",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 5832,
+                "name": "legacy name"
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "id": 206627,
+              "date_created": "2018-04-17T13:34:54Z",
+              "user_created": "APiechl"
+            },
+            {
+              "id": 206620,
+              "date_created": "2018-04-17T13:34:33Z",
+              "user_created": "APiechl"
+            }
+          ],
+          "start_date_written": null,
+          "end_date_written": null,
+          "status": "distinct",
+          "lat": 50.6607,
+          "lng": 14.03227,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 5,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 43,
+              "name": "Piechl Todo"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 96494,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/",
+          "label": "wirkte in"
+        },
+        "annotation": [
+          {
+            "id": 1314,
+            "user": "sennierer",
+            "annotation": "Mühlau bei Innsbruck",
+            "text": "r Heimat Tirol und verbrachte seinen Ruhestand in <annotation>Mühlau bei Innsbruck</annotation>. Große Verdienste erwarb sich S. als Heimatforsch",
+            "string_offset": "645-665",
+            "text_url": "http://127.0.0.1:8000/apis/api/metainfo/text/15295/"
+          }
+        ],
+        "revisions": [
+          {
+            "id": 18011,
+            "date_created": "2016-09-27T11:26:13Z",
+            "user_created": "MKaiser"
+          }
+        ],
+        "target": {
+          "id": 96492,
+          "url": "undefined",
+          "name": "Mühlau",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 65197,
+              "uri": "http://sws.geonames.org/2771134/"
+            }
+          ],
+          "labels": [],
+          "revisions": [
+            {
+              "id": 209774,
+              "date_created": "2018-04-26T16:23:05Z",
+              "user_created": "ABernad"
+            },
+            {
+              "id": 18008,
+              "date_created": "2016-09-27T11:26:13Z",
+              "user_created": "MKaiser"
+            }
+          ],
+          "start_date_written": null,
+          "end_date_written": null,
+          "status": "distinct",
+          "lat": 47.28333,
+          "lng": 11.4,
+          "collection": [
+            {
+              "id": 37,
+              "name": "Journalisten 21-8-2017"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      },
+      {
+        "id": 97124,
+        "relation_type": {
+          "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/",
+          "label": "wirkte in"
+        },
+        "annotation": [],
+        "revisions": [
+          {
+            "id": 20052,
+            "date_created": "2016-10-03T15:31:59Z",
+            "user_created": "Not specified"
+          }
+        ],
+        "target": {
+          "id": 327,
+          "url": "undefined",
+          "name": "Brünn",
+          "start_date": null,
+          "end_date": null,
+          "uris": [
+            {
+              "id": 258,
+              "uri": "http://sws.geonames.org/3078610/"
+            },
+            {
+              "id": 64762,
+              "uri": "http://d-nb.info/gnd/4008456-5"
+            }
+          ],
+          "labels": [
+            {
+              "id": 108,
+              "label": "Brno",
+              "isoCode_639_3": "eng",
+              "label_type": {
+                "id": 6,
+                "name": "weitere Namensformen"
+              }
+            },
+            {
+              "id": 109,
+              "label": "Brno, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 697,
+              "label": "Brno, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 713,
+              "label": "Brno, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 714,
+              "label": "Brno, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 715,
+              "label": "Brno, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 716,
+              "label": "Brno, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 2002,
+              "label": "Brno - Brno-sever, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 2595,
+              "label": "Brno - Brno-jih, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 3657,
+              "label": "Brno - Brno-jih, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 3697,
+              "label": "Brno - Maloměřice-Obřany, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 35665,
+              "label": "Brno-Tuřany, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 37205,
+              "label": "Brno-Tuřany, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            },
+            {
+              "id": 37215,
+              "label": "Brno-Tuřany, kr. Jihomoravský",
+              "isoCode_639_3": "deu",
+              "label_type": {
+                "id": 4,
+                "name": "ÖBL place name"
+              }
+            }
+          ],
+          "revisions": [
+            {
+              "id": 714,
+              "date_created": "2016-05-09T14:27:37Z",
+              "user_created": "oebl"
+            }
+          ],
+          "start_date_written": "",
+          "end_date_written": "",
+          "status": "distinct",
+          "lat": 49.19522,
+          "lng": 16.60796,
+          "collection": [
+            {
+              "id": 1,
+              "name": "ÖBL places import 6.5.16"
+            },
+            {
+              "id": 52,
+              "name": "Lyon export test data"
+            }
+          ],
+          "entity_type": "Place"
+        }
+      }
+    ],
+    "works": []
+  }
+}

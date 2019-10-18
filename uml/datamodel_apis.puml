@@ -1,0 +1,63 @@
+@startuml
+left to right direction
+package entities <<Rectangle>> {
+	
+class Person {
+	first_name : string
+	name : string
+	start_date : date
+	end_date : date
+	}
+
+	class Place {
+	name : string
+	start_date : date
+	end_date : date
+	lat : float
+	lng : float
+	}
+
+	class Institution {
+	name : string
+	start_date : date
+	end_date : date
+	}
+
+	class Work {
+	name : string
+	start_date : date
+	end_date : date
+	}
+
+	class Event {
+	name : string
+	start_date : date
+	end_date : date
+	}
+}
+package meta.classes <<Rectangle>> {
+  class Annotation {
+	#start : int
+	#end : int
+}
+  class Text {
+	text : longtext
+}
+}
+Person -- Place
+Place -- Institution
+Person -- Institution
+Person -- Work
+Place -- Work
+Institution -- Work
+Person -- Event
+Place -- Event
+Institution -- Event
+Work -- Event
+Person .. Annotation
+Institution .. Annotation
+Place .. Annotation
+Work .. Annotation
+Event .. Annotation
+Annotation -- Text
+@enduml

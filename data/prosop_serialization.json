@@ -1,0 +1,318 @@
+{
+ "factoids": [
+  {
+   "createdBy": "TITLE export",
+   "createdWhen": "2019-05-15T10:26:09.770Z",
+   "id": "apis_person_33836",
+   "person": {
+    "id": "33836",
+    "uris": [
+     "http://d-nb.info/gnd/140744088"
+    ]
+   },
+   "source": {
+    "id": "TITLE",
+    "metadata": "TITLE export"
+   },
+   "statements": [
+    {
+     "id": "Stmt33836_1",
+     "name": "Sinwel, Rudolf"
+    },
+    {
+     "date": {
+      "label": "26.10.1947",
+      "sortdate": "1947-10-26"
+     },
+     "id": "Stmt33836_2",
+     "role": {
+      "label": "stirbt"
+     }
+    },
+    {
+     "date": {
+      "label": "5.4.1865",
+      "sortdate": "1865-04-05"
+     },
+     "id": "Stmt33836_3",
+     "role": {
+      "label": "geboren"
+     }
+    },
+    {
+     "id": "Stmt33836_4",
+     "role": {
+      "label": "gender",
+      "uri": "bio-crm:gender"
+     },
+     "statmentContent": [
+      {
+       "label": "male"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_5",
+     "role": {
+      "label": "profession"
+     },
+     "statementContent": [
+      {
+       "label": "Literatur, Buch- und Zeitungswesen",
+       "uri": "apis_profession_type:128"
+      },
+      {
+       "label": "Geisteswissenschaft",
+       "uri": "apis_profession_type:149"
+      },
+      {
+       "label": "Unterrichtswesen",
+       "uri": "apis_profession_type:188"
+      },
+      {
+       "label": "Geisteswissenschaft >> Heimatforscher, Schriftsteller und Lehrer",
+       "uri": "apis_profession_type:1563"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_33837",
+     "role": {
+      "label": "place of birth",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/595/"
+     },
+     "statementContent": [
+      {
+       "label": "Zell am See",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/21548"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_33838",
+     "role": {
+      "label": "place of death",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/596/"
+     },
+     "statementContent": [
+      {
+       "label": "Innsbruck",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/6700"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "createdBy": "MKaiser",
+   "createdWhen": "2016-09-27",
+   "id": "apis_person_33836_5",
+   "person": {
+    "id": "33836",
+    "uris": [
+     "http://d-nb.info/gnd/140744088"
+    ]
+   },
+   "source": {
+    "id": "APIS",
+    "metadata": "APIS highlighter annotations rev. 17971 / 17986 / 18015 / 18019 / 17968 / 17974 / 17976 / 17980 / 17983 / 18011"
+   },
+   "statements": [
+    {
+     "id": "Stmt33836_rel_96481",
+     "role": {
+      "label": "war in Ausbildung >> war Student",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personinstitutionrelation/5642/"
+     },
+     "statementContent": [
+      {
+       "label": "Universit\u00e4t Innsbruck",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/94158"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96491",
+     "role": {
+      "label": "war Mitarbeiter >> war Lehrer",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personinstitutionrelation/5677/"
+     },
+     "statementContent": [
+      {
+       "label": "Kaiserlich-K\u00f6nigliche Kaiser-Franz-Josefs-Handelsakademie (Br\u00fcnn)",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/96488"
+      },
+      {
+       "id": "Annotation_1313",
+       "label": "g (\u00dast\u00ed nad Labem) und 1895\u20131916 als 
+       Prof. an der <annotation>Handelsakad. in Br\u00fcnn</annotation> (Brno); 
+       1917 krankheitshalber i. R. Trotz seiner "
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96495",
+     "role": {
+      "label": "war Gr\u00fcnder von",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personinstitutionrelation/5657/"
+     },
+     "statementContent": [
+      {
+       "label": "Tiroler Heimatbl\u00e4tter",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/94188"
+      },
+      {
+       "id": "Annotation_1315",
+       "label": " Auf seine Initiative ging 1920 die Gr\u00fcndung der \u201e<annotation>Tiroler Heimatbl\u00e4tter</annotation>\u201c (gem. mit Eduard Lippott) zur\u00fcck, deren Schriftl"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96497",
+     "role": {
+      "label": "rezipierte",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personpersonrelation/5421/"
+     },
+     "statementContent": [
+      {
+       "label": "Prem",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/48138"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96480",
+     "role": {
+      "label": "ausgebildet in",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5399/"
+     },
+     "statementContent": [
+      {
+       "label": "Innsbruck",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/6700"
+      },
+      {
+       "id": "Annotation_1308",
+       "label": ". d.) bei Zieheltern auf. S. absolv. das Gymn. in <annotation>Innsbruck</annotation> und stud. 1883\u201387 an der dortigen Univ. Dt. Philo"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96482",
+     "role": {
+      "label": "wirkte in",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/"
+     },
+     "statementContent": [
+      {
+       "label": "Linz",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/10015"
+      },
+      {
+       "id": "Annotation_1309",
+       "label": " Im Zuge seiner schul. Laufbahn wirkte er 1888 in <annotation>Linz</annotation>, 1889 in Salzburg, 1890 in Znaim (Znojmo), 1891\u20139"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96483",
+     "role": {
+      "label": "wirkte in",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/"
+     },
+     "statementContent": [
+      {
+       "label": "Salzburg",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/154"
+      },
+      {
+       "id": "Annotation_1310",
+       "label": "r schul. Laufbahn wirkte er 1888 in Linz, 1889 in <annotation>Salzburg</annotation>, 1890 in Znaim (Znojmo), 1891\u201394 an der Handelsak"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96484",
+     "role": {
+      "label": "wirkte in",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/"
+     },
+     "statementContent": [
+      {
+       "label": "Znaim",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/21655"
+      },
+      {
+       "id": "Annotation_1311",
+       "label": "wirkte er 1888 in Linz, 1889 in Salzburg, 1890 in <annotation>Znaim </annotation>(Znojmo), 1891\u201394 an der Handelsakad. in Aussig (\u00da"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96485",
+     "role": {
+      "label": "wirkte in",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/"
+     },
+     "statementContent": [
+      {
+       "label": "\u00dast\u00ed nad Labem",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/806"
+      },
+      {
+       "id": "Annotation_1312",
+       "label": "in Znaim (Znojmo), 1891\u201394 an der Handelsakad. in <annotation>Aussig </annotation>(\u00dast\u00ed nad Labem) und 1895\u20131916 als Prof. an der Ha"
+      }
+     ]
+    },
+    {
+     "id": "Stmt33836_rel_96494",
+     "role": {
+      "label": "wirkte in",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/"
+     },
+     "statementContent": [
+      {
+       "label": "M\u00fchlau",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/96492"
+      },
+      {
+       "id": "Annotation_1314",
+       "label": "r Heimat Tirol und verbrachte seinen Ruhestand in <annotation>M\u00fchlau bei Innsbruck</annotation>. Gro\u00dfe Verdienste erwarb sich S. als Heimatforsch"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "createdBy": "Not specified",
+   "createdWhen": "2016-10-03",
+   "id": "apis_person_33836_7",
+   "person": {
+    "id": "33836",
+    "uris": [
+     "http://d-nb.info/gnd/140744088"
+    ]
+   },
+   "source": {
+    "id": "APIS",
+    "metadata": "APIS highlighter annotations rev. 20052"
+   },
+   "statements": [
+    {
+     "id": "Stmt33836_rel_97124",
+     "role": {
+      "label": "wirkte in",
+      "url": "http://127.0.0.1:8000/apis/api/vocabularies/personplacerelation/5388/"
+     },
+     "statementContent": [
+      {
+       "label": "Br\u00fcnn",
+       "uri": "https://apis.acdh.oeaw.ac.at/api2/entity/327"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
