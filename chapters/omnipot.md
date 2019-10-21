@@ -23,7 +23,7 @@
 @snapend
 
 @snap[center span-100]
-@ol[list-spaced-bullets list-boxed-bullets text-08]
+@ol[list-spaced-bullets list-boxed-bullets text-07]
 - The Austrian Academy of Sciences was founded in 1847 @css[fragment](\>\> a LOT of legacy data in wild formats, using even wilder vocabularies and ontologies)
 - interlink as much data as possible
 - Idea of the omnipot:
