@@ -75,7 +75,7 @@
 @css[title-note text-white](alone?)
 @snapend
 
-@snap[south span-100]
+@snap[center span-100]
 @ol[list-boxed-bullets custom-spaced-bullets]
 - several existing initiatives
 	+ data for history @css[fragment](\>\> or even CIDOC CRM at large)

@@ -2,19 +2,20 @@
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
-### APIs
+### Relation based
 @snapend
 
 @snap[north-east]
-@css[title-note text-white](APIs in APIS)
+@css[title-note text-white](APIS datamodel)
 @snapend
 
-@snap[south span-100]
+@snap[south span-100 text-09]
 @ul[list-spaced-bullets]
-- Hyperlinked API for retrieval of atomic data
-- \>\> e.g. network visualization
-- 2nd API for retrieval of every information on one entity
-- \>\> used for serializing data to various formats
+- 5 entities @css[fragment](\>\> person, place, institution, work and event)
+- relations between them @css[fragment](\>\> time-span, relation type)
+- 1-n texts @css[fragment](\>\> attached to the entities)
+- offset annotations @css[fragment](\>\> pointing to text & entity/relation)
+- provenance
 @ulend
 @snapend
 

@@ -28,24 +28,17 @@
 @[8-12](time span)
 @snapend
 
-+++
-@code[xml code-scrollable](data/tei_serialization.xml)
-@snap[south span-100 text-09]
-@[19-27](Metadata)
-@[32-36](Relations to other entities)
-@[51](LOD links)
-@snapend
-
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 
 @snap[north h3-white]
-### More To Come
+### More To Come?
 @snapend
 
 @snap[midpoint span-100]
 @ul[list-spaced-bullets]
-- Links to vocabulary entries
 - Annotation of texts
+- Provenance of data
+- Affiliation with institutions
 - ...
 @ulend
 @snapend
@@ -53,14 +46,13 @@
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 
 @snap[north span-100 h3-white]
-### ProsopogrAPhI Serialization
+### Factoid
 @snapend
 
 @snap[south span-100]
 @ul[list-spaced-bullets text-09]
-- [ProsopogrAPhi](https://github.com/GVogeler/prosopogrAPhI)
-- Created by Georg Vogeler & colleagues
-- Based on the idea of factoids
+- Statement X about person Y expressed by researcher Z backed by source S
+- [ProsopogrAPhi](https://github.com/GVogeler/prosopogrAPhI) - JSON API
 - easy to implement while allowing for some matching
 - Definition in swagger
 - contributions & ideas welcome on GitHub

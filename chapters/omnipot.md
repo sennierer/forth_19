@@ -34,19 +34,8 @@
 @olend
 @snapend
 
-+++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
-@title[Sidebar + Heading]
++++
 
-@snap[north h3-white]
-### researchspace
-@snapend
-
-@snap[north-east]
-@css[title-note text-white](the tool)
-@snapend
-
-@snap[center span-100]
-@ol[list-spaced-bullets list-boxed-bullets text-08]
-- started by the British Museum with a Mellon Fund grant 
-@olend
+@snap[midpoint span-100]
+![Omnipot example](images/screen_Omnipot_localGraph.PNG)
 @snapend
