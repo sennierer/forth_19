@@ -7,7 +7,7 @@
 # For further details, see https://gitpitch.com/docs/settings.
 #
 
-published : false
+published : true
 
 #
 # Theme Setting
@@ -15,7 +15,6 @@ published : false
 #
 theme : template
 
-stealth: forth_19
 
 #
 # Theme-Override Setting
