@@ -20,15 +20,21 @@ Crete, Greece, 2019
 ---?include=chapters/omnipot.md
 
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+@title[Sidebar + Heading]
 
 @snap[north h3-white]
-### Thanks!
+### URLs
 @snapend
 
-[https://apis.acdh.oeaw.ac.at](https://apis.acdh.oeaw.ac.at)
+@snap[north-east]
+@css[title-note text-white](URLs)
+@snapend
 
-[github.com/acdh-oeaw/apis-core](https://github.com/acdh-oeaw/apis-core)
-
-[gitpitch.com/sennierer/modelling_forth_2019/master](https://gitpitch.com/sennierer/modelling_forth_2019/master)
-
-
+@snap[center span-100]
+@ol[list-spaced-bullets list-boxed-bullets text-08]
+- [https://gitlab.com/acdh-oeaw/prosopography-modelling-recipes](https://gitlab.com/acdh-oeaw/prosopography-modelling-recipes)
+- [https://apis.acdh.oeaw.ac.at](https://apis.acdh.oeaw.ac.at)
+- [github.com/acdh-oeaw/apis-core](https://github.com/acdh-oeaw/apis-core)
+- [gitpitch.com/sennierer/modelling_forth_2019/master](https://gitpitch.com/sennierer/modelling_forth_2019/master)
+@olend
+@snapend
