@@ -1,16 +1,4 @@
 
----
-@code[python code-scrollable](data/cidoc_mapping.py)
-@snap[south span-100 text-09]
-@[51-76](Place serialization)
-@[52-54](return the URI, if place already exists)
-@[52-54](return the URI, if place already exists)
-@[56-67](place appellation)
-@[68-69](spatial data)
-@[70](sameAs)
-@[10-14](function sameAs)
-@snapend
-
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
