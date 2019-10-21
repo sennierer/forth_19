@@ -40,7 +40,7 @@
 	+ TEI P5 guidelines 1900+ pages
 	+ 7 triples for the date of birth @css[fragment](\>\> single attribute)
 - No @css[emph](winner) in the @css[emph](war of ontologies) yet @css[fragment](\>\> serialization/mapping needed anyway)
-- No major web development fragment for triple stores available @css[fragment](\>\> researchspace/metaphacts might change that)
+- No major web development framework for triple stores available @css[fragment](\>\> researchspace/metaphacts might change that)
 @olend
 @snapend
 
