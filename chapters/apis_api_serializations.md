@@ -15,7 +15,7 @@
 - Place of Birth
 - Date of Birth
 - \>\> more planned
-- \>\> ACDHs omnipod
+- \>\> ACDHs omnipot
 @ulend
 @snapend
 
@@ -44,7 +44,7 @@
 
 @snap[midpoint span-100]
 @ul[list-spaced-bullets]
-- Links to vocabularie entries
+- Links to vocabulary entries
 - Annotation of texts
 - ...
 @ulend
