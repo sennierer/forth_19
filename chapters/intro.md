@@ -1,6 +1,6 @@
 
 
-?color=linear-gradient(180deg, #5289F7 18%, white 18%)
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 
 
 @title[Sidebar + Heading]
