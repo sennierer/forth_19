@@ -13,7 +13,7 @@
 @css[title-note text-white](pragmatic?)
 @snapend
 
-@snap[south span-100]
+@snap[center span-100]
 @ol[list-boxed-bullets custom-spaced-bullets]
 - Use tailor made data model @css[fragment](\>\> easy to create applications / work with data)
 - serialize data with internal data model
