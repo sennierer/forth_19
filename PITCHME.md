@@ -16,6 +16,7 @@ Crete, Greece, 2019
 ---?include=chapters/intro.md
 ---?include=chapters/apis_generic_api.md
 ---?include=chapters/apis_api_serializations.md
+---?include=chapters/researchspace.md
 
 
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
