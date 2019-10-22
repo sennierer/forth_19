@@ -1,4 +1,4 @@
-+++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
@@ -20,9 +20,15 @@
 @olend
 @snapend
 
++++
+
+@snap[midpoint span-100]
+![Omnipot example](images/screen_Omnipot_localGraph.PNG)
+@snapend
+
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
-@snap[north h3-white]
+@snap[centre]
 #### [https://omnipot.acdh-dev.oeaw.ac.at](Omnipot)
 @snapend
