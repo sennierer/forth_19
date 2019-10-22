@@ -1,4 +1,3 @@
-
 +++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Introduction]
 
@@ -22,4 +21,3 @@
 	+ and take the interlinking from there
 @olend
 @snapend
-
